@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "363032235647",
+    "firebase_url": "https://ecommerce-1bfa7.firebaseio.com",
+    "project_id": "ecommerce-1bfa7",
+    "storage_bucket": "ecommerce-1bfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363032235647:android:8daf9c13882b5e4a",
+        "android_client_info": {
+          "package_name": "com.example.jesulonimi.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363032235647-21ru81966v20gvqi5irguq7ugbtmeppq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jesulonimi.ecommerce",
+            "certificate_hash": "f6c9d9bd72a5cfe4c9f1b729b1216562d1193348"
+          }
+        },
+        {
+          "client_id": "363032235647-sn54dfjqaubphcj2o5fn8b1gt0l3hk2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTEleMT3w_1EcS5V5R60PvqQbXcs9Pv-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363032235647-sn54dfjqaubphcj2o5fn8b1gt0l3hk2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
